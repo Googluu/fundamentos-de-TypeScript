@@ -11,5 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.1"
   }
 }
